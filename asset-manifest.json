@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.55df7064.css",
-    "main.js": "/static/js/main.0d3ae2a8.js",
-    "index.html": "/index.html",
-    "main.55df7064.css.map": "/static/css/main.55df7064.css.map",
-    "main.0d3ae2a8.js.map": "/static/js/main.0d3ae2a8.js.map"
+    "main.css": "/Tymen-WebSite-ORG/static/css/main.55df7064.css",
+    "main.js": "/Tymen-WebSite-ORG/static/js/main.0d3ae2a8.js",
+    "index.html": "/Tymen-WebSite-ORG/index.html",
+    "main.55df7064.css.map": "/Tymen-WebSite-ORG/static/css/main.55df7064.css.map",
+    "main.0d3ae2a8.js.map": "/Tymen-WebSite-ORG/static/js/main.0d3ae2a8.js.map"
   },
   "entrypoints": [
     "static/css/main.55df7064.css",
